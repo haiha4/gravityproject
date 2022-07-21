@@ -370,6 +370,12 @@
 -r:"Library/Bee/artifacts/1900b0aE.dag/Unity.VSCode.Editor.ref.dll"
 -r:"Library/Bee/artifacts/1900b0aE.dag/UnityEditor.UI.ref.dll"
 -r:"Library/Bee/artifacts/1900b0aE.dag/UnityEngine.UI.ref.dll"
+"Assets/Kawaii Slime/Cameras/Scripts/AbstractTargetFollower.cs"
+"Assets/Kawaii Slime/Cameras/Scripts/FreeLookCam.cs"
+"Assets/Kawaii Slime/Cameras/Scripts/PivotBasedCameraRig.cs"
+"Assets/Kawaii Slime/Scripts/AI/EnemyAi.cs"
+"Assets/Kawaii Slime/Scripts/AI/Face.cs"
+"Assets/Kawaii Slime/Scripts/GameManager.cs"
 "Assets/Scripts/MouseLook2.cs"
 "Assets/Scripts/PlayerMovement2.cs"
 -langversion:9.0

@@ -36,21 +36,29 @@
     <ImplicitlyExpandDesignTimeFacades>false</ImplicitlyExpandDesignTimeFacades>
   </PropertyGroup>
   <ItemGroup>
-     <Compile Include="Assets\Scripts\MouseLook2.cs" />
      <Compile Include="Assets\Scripts\PlayerMovement2.cs" />
+     <Compile Include="Assets\Scripts\MouseLook2.cs" />
+     <Compile Include="Assets\Kawaii Slime\Scripts\AI\EnemyAi.cs" />
+     <Compile Include="Assets\Kawaii Slime\Scripts\GameManager.cs" />
+     <Compile Include="Assets\Kawaii Slime\Cameras\Scripts\PivotBasedCameraRig.cs" />
+     <Compile Include="Assets\Kawaii Slime\Cameras\Scripts\FreeLookCam.cs" />
+     <Compile Include="Assets\Kawaii Slime\Cameras\Scripts\AbstractTargetFollower.cs" />
+     <Compile Include="Assets\Kawaii Slime\Scripts\AI\Face.cs" />
      <None Include="Assets\TerrainSampleAssets\ThirdPartyNotices.txt" />
      <None Include="Assets\Polytope Studio\Lowpoly Medieval Environments\Sources\Shaders\PT_Water_Shader_WebGl.shader" />
      <None Include="Assets\Polytope Studio\Lowpoly Medieval Environments\Sources\Shaders\PT_Vegetation_Plants_Shader.shader" />
      <None Include="Assets\Fantasy Skybox FREE\Readme.txt" />
      <None Include="Assets\Fantasy Skybox FREE\ReleaseNotes.txt" />
+     <None Include="Assets\Kawaii Slime\Cameras\CameraGuidelines.txt" />
      <None Include="Assets\Polytope Studio\Lowpoly Medieval Environments\Sources\Shaders\PT_Vegetation_Opaque_Shader_VS.shader" />
      <None Include="Assets\Polytope Studio\Lowpoly Medieval Environments\Sources\Shaders\PT_Vegetation_Opaque_Shader.shader" />
      <None Include="Assets\Polytope Studio\Lowpoly Medieval Environments\Sources\Shaders\PT_Vegetation_Foliage_Shader.shader" />
      <None Include="Assets\Polytope Studio\Lowpoly Medieval Environments\Sources\Shaders\PT_Water_Shader.shader" />
      <None Include="Assets\Polytope Studio\Lowpoly Medieval Environments\Sources\Shaders\PT_Vegetation_Flowers_Shader.shader" />
      <None Include="Assets\Polytope Studio\Lowpoly Medieval Environments\Sources\Shaders\PT_Rock_Shader_VS.shader" />
-     <None Include="Assets\StylizedGrass\READMEdoc.txt" />
+     <None Include="Assets\Kawaii Slime\Shader\Unity-chan Shader Ver 1.2.1\readme.txt" />
      <None Include="Assets\Polytope Studio\Lowpoly Medieval Environments\Sources\Shaders\PT_Vegetation_Plants_Shader_VS.shader" />
+     <None Include="Assets\Kawaii Slime\Shader\Unity-chan Shader Ver 1.2.1\Unitychan_chara_eye.shader" />
      <None Include="Assets\Polytope Studio\Lowpoly Medieval Environments\Sources\Shaders\PT_Vegetation_Flowers_Shader_VS.shader" />
      <None Include="Assets\Polytope Studio\Lowpoly Medieval Environments\Sources\Shaders\PT_Rock_Shader.shader" />
      <None Include="Assets\Polytope Studio\Lowpoly Medieval Environments\Sources\Shaders\VS_indirect.cginc" />
